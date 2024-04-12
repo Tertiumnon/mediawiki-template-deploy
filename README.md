@@ -1,6 +1,6 @@
 # MediaWiki Template Deploy
 
-MW Deploy are tools for deploying MediaWiki-pages to remote servers.
+MediaWiki Template Deploy is a tool for deploying MediaWiki-pages to remote server with MediaWiki.
 
 You can:
 
